@@ -1,0 +1,690 @@
+
+Glossary 
+
+A
+
+Acrobat Reader n Adobe's free software for displaying and printing PDF files. 
+ADSL abr  Asymmetric Digital Subscriber Line. A broadband communication technology designed for use on telephone lines; it allows a single phone connection to be used for both internet service and voice calls at the same time. 
+adware n Software devised to display advertisements; some may include spyware. 
+alphanumeric keys n  Keys that represent letters and numbers, arranged as on a typewriter. 
+Amazon.com n A popular online shopping site. 
+android n A robot that resembles a human. 
+animations n Images made up of a series of independent pictures put together in sequence to look like moving pictures.
+applet n A small Java application, usually designed to run automatically within a web page. 
+application software n Programs that let you do specific tasks, such as word processing, database management or financial planning. 
+arcade game n A game played in a coin-operated machine, typically installed in pubs, restaurants.
+arithmetic logic unit n A component of the CPU which performs the actual arithmetic and logical operations asked for by a program. 
+aspect ratio n The width of the screen divided by its height, e.g. 4:3 (standard PC monitor or TV set) and 16:9 (high-definition TV).
+assembler n A special program that converts a program written in a low-level language into machine code.
+assembly language n A low-level language that uses abbreviations, such as ADD, SUB and MPY, to represent instructions. 
+Artificial Intelligence n The study of methods by which a computer can simulate aspects of human intelligence. 
+ASCII code n A standard system for the binary representation of characters. ASCII, which stands for American Standard Code for Information Interchange, permits computers from different manufacturers to exchange data, aspect ratio width of the screen divided by its height, e.g. 4:3 (standard PC monitor or TV set) and 16:9 (high-definition TV), assembler A special program that converts a program written in a low-level language into machine code, assembly language A low-level language that uses abbreviations, such as ADD, SUB and MPY, to represent instructions. 
+ATA adaptor n An analogue telephone adaptor, which converts the analogue signals of your traditional phone into digital signals. 
+Athlon n A processor manufactured by AMD. 
+attachment n A file that has been included as part of an email message.
+attributes n Characteristics that affect the visual representation of lines and polygons, e.g. line styles, rectangle colour, etc. 
+Authentication n Verifying the identity of a user logging onto a network; ways of authentication include passwords, digital certificates and biometrics. 
+
+B 
+
+back up n To copy files from one disk to another. 
+backbone n High-speed lines or connections that form the major access pathways within the Internet.
+backup n A copy of data or software, usually kept in case the original disk is damaged.
+bandwidth n The quantity of data that can be transmitted through a network, measured in bits per second (bps).
+bar code reader n A specialized scanner used to read price labels in shops. 
+BASIC A high-level programming language developed in the 1960s, widely usedin programming because it was interactive and easy to use. Short for Beginner's All-purpose Symbolic Instruction Code. 
+binary code n A code made of just two numbers (0 and 1). 
+binary digit The smallest unit of information in the binary system, or 1. Also called a bit. 
+binary system n A notation system in which numbers are represented by the two digits: and 1. Thus the binary number 1 represents 2 in the decimal system, while 100 represents 4. 
+biometrics n The science that uses computer technology to identify people based on physical features, such as fingerprints or voice scans. From the ancient Greek: bios = life, metron = measure.
+BitTorrent A protocol for transferring music, films, games and podcasts. It breaks files into chunks and distributes them among a large number of users; when you download a torrent, you are also uploading it to another user. 
+BlackBerry n A wireless handheld device, developed by Research in Motion, which provides email, phone, text messaging, web browsing, an organizer, as well as instant messaging and corporate data access.
+blind carbon copy (Bcc) Addresses in the Bcc: line of an email program will receive a copy of the message, but the identity of the recipients will be kept secret. 
+blog n 1. (n) A user-generated website where people express their opinions. The entries are displayed in a reverse chronological order. The term comes from web log, coined by Jorn Barge in 1997 to refer to an online diary. 2. (v) To write entries in a blog. 
+blog administrator n Someone who edits and deletes posts or comments made by contributors to a blog. 
+blogger n A person who writes on a blog. 
+blogging n Writing web logs. 
+blogosphere adj.The collective term including all blogs as a community. 
+Bluetooth n A wireless technology that allows handhelds, mobile phones and other peripheral devices to communicate over short distances. 
+Blu-ray disc n A new optical disc, created by Sony, which can record and play back high-definition TV and computer data. Unlike current DVDs, which use a red laser to read and write data, Blu-ray uses a blue-violet laser, hence its name. 
+bookmark n A saved link that takes users directly to a web address. Bookmarks are also called favourites. 
+Braille  n A system of writing devised by Louis Braille for blind people, in which combinations of raised dots representing letters and numbers can be identified by touch. 
+Braille embosser n An impact printer that produces tactile Braille symbols.
+brightness n The amount of light produced by an LCD monitor, measured in cd/m2.
+broadband n High-speed transmission, usually referring to internet access via cable and ADSL; about 400 times faster than dial-up access. 
+browser n A program designed to fetch and display web pages on the Internet.
+buddy list n A list of people that you may want to communicate with via instant messaging. 
+bug n An error in a computer program, built-in /'biltin/ adj Integrated; constructed as part of a larger unit. 
+bulletin board system (BBS) A system that enables its users, usually members of a particular interest group, to share information and programs. 
+burn v To write data to a CD or DVD. 
+bus n An electrical channel, or highway, which carries signals between units inside the computer. 
+bus topology n One of the three principal topologies for a LAN, in which all computer devices are connected to a main cable, or bus. 
+bus width n The size of a bus, which determines how much data can be transmitted; for example, a 64-bit bus can transmit 64 bits of data. 
+byte n A unit of computer information, consisting of a group of eight bits. See also kilobyte, megabyte, gigabyte, terabyte.
+
+Ñ
+
+cable modem n À modem designed to operate through a cable TV line.
+call centre n A large office in which a company's employees provide information to its customers, or sell or advertise its goods or services by telephone. 
+carbon copy n (Cc) Addresses on the Cc: line of an email program will receive the same message, and the recipients will be able to see the identity of the other recipients. 
+Cascading Style Sheets n (CSS) A mechanism for adding style (e.g. fonts, colours, spacing) to web documents.
+cathode ray tube n (CRT) The picture tube of old PC monitors, made of glass and containing a vacuum. In a colour monitor, the screen surface is coated with triads of red, green and blue phosphor. Three electron beams energize the phosphor dots, causing them to emit coloured light from which the picture is formed. 
+CD ripper n A program that åxtracts music tracks and saves them on disk. 
+CD-R n A write-once CD which lets you duplicate music and data CDs. Short for compact disc recordable. 
+CD-ROM n A 'read-only' CD, meaning you cannot change data stored on it. Short for compact disc read-only memory. 
+CD-RW n A CD that allows audio or data to be written, read, erased, and rewritten. Short for compact disc re-writable. 
+cell n An intersection of a column and a row in a spreadsheet. 
+cell phone n American term for mobile phone. The term cell comes from the fact that the phone calls are made through base stations (antennae) which divide the coverage area into cells. As you move from cell to cell, the calls are transferred to different base stations; this is called roaming. 
+central processing unit n (CPU) The processor chip that performs the basic operations of a computer; like the 'brain' of the computer. Its basic components are the control unit, the arithmetic logic unit and the registers. 
+character n A symbol available on the keyboard (letter, number or blank space). 
+chat n A real-time interactive conversation on the Internet. 
+chat room A channel where users can communicate with each other in real time. 
+chip n A tiny piece of silicon containing complex electronic circuits. Chips are used to make the hardware components of a computer. 
+Chip and Pin n A secure method of paying with credit cards. Instead of using a signature to verify payments, customers are asked to enter a four-digit PIN (personal identification number). 
+click v To press and release the left button on a mouse. 
+client program n Software running on your PC, used to connect and obtain data from a server.
+client-server n A network architecture in which various client programs all connect to a central server to obtain information or to communicate. 
+clip art n Ready-made pictures.
+clipboard n A holding place for text or graphics that you have just cut or copied. 
+COBOL n A high-level programming language developed in 1 959 and mainly used for business applications. Short for Common Business-Oriented Language. 
+coding n The process of writing instructions for a computer
+colour depth n The number of bits used to hold a colour pixel; this determines the number of colours that a monitor can display. 
+colour palette n The collection of colours available in a system. 
+colour picker n A tool used to select a specific colour in a photo; also called an eyedropper. 
+column n A vertical line of boxes labelled with a letter in a spreadsheet program.
+command n An instruction for a computer. 
+compact disc n (CD) A storage device which uses optical laser technology. Its storage capacity is from 650MB to 700MB. 
+compatible n The ability of a device or program to work with another device or program. Two PCs are compatible if they can run the same software. Programs are compatible if they use the same data formats.
+compiler n A special program that converts a source program (written in a high- level language) into object code (machine code) in one go. 
+compositing n Combining parts of different images to create a single image.
+compression n The process which makes computer data smaller so the information takes up less space and may be transmitted in less time. Compressed files have extensionslike .zip, .arj, and .sit. 
+computer security specialist n Someone who works with companies to build secure computer systems. 
+computer-aided design n (CAD) Software, and sometimes special-purpose hardware, used by engineers and architects to design everything from cars and planes to buildings and furniture.
+computer-to-plate n (CTP) An imaging technology used in modern commercial printing, in which DTP files are output directly to the printing plates without using film as an intermediate step. 
+configuration n The components of a computer system.
+configure v to set up a computer device or a program to be used in a particular way. 
+console game n A game played on a video game console, such as PlayStation or Xbox 360, and displayed on a television or similar audio-video system. 
+control unit n (CU) A component of the CPU which coordinates all the other parts of the computer system. This unit is also responsible for fetching instructions from the main memory and determining their type.
+cookies n Small files used by web servers to know if you have visited their site before. Cookies can store user information but do not read your hard disk.
+cracker n An intruder who breaks into computer systems for fun, to steal information, or to propagate viruses. Compare with hacker.
+crash 1. (n) A serious failure which usually requires operator attention before the computer system can be restarted. 2. (v) When a hard disk fails, it is said to have crashed.
+crop v To cut down the dimensions of a picture. 
+cursor control keys n They include arrow keys that move the insertion point up, down, right and left, and keys such as End, Home, Page Up and Page Down, used within a word processor to move around a long document. 
+CU-SeeMe n A video- conferencing program from Cornell university.
+cybercafe n A place where you can use computers with internet access for a fee; also called an internet cafe. 
+cybercrime n Crimes perpetrated over the Net. 
+cyberculture n Culture emerging from the use of ICT systems.
+cyberslacker n An employee who uses his company's internet connection during working hours to chat with friends, play games, etc. 
+cyberspace n A term originated by William Gibson in his novel Neuromancer, now used to refer to the virtual world of computers and the Internet. 
+cyberstalking n Online harassment or abuse, mainly in chat rooms and forums. 
+cyborg n A term invented by M. Clynes and N. Kline in 1960 to describe a cybernetic organism, a being that is part robot, part human. 
+
+D 
+
+data n Information in an electronic form that can be stored and processed by a computer.
+data processing n The performing of operations on data to obtain information or solutions to a problem.
+data transfer rate n The average speed at which data can be transmitted from one device to another, often measured in megabytes per second. 
+database n A file of structured data.
+database program n An applications program used to store, organize and retrieve a large collection of data. Among other facilities, data can be searched, sorted and updated. 
+debug n To correct program errors, or bugs. 
+debugger n A program used to test and debug other programs. 
+debugging n The techniques of etecting and correcting errors (or bugs) which may occur in programs. 
+decryption n The process of decoding (deciphering) secret data. 
+dedicated keys v Special keys used to issue commands or to produce alternative characters, e.g. the Ctrl key or the Alt key. 
+desk accessory n A mini application available on the Apple Menu, e.g. a calculator. In Palm OS, it is a program that you can launch from any program without having to exit the running program. 
+desktop PC n A computer designed to be placed on a desk, used as a home computer or as a workstation for group work. 
+desktop publishing (DTP) n The use of a computer system for all steps of document production, including typing, editing, graphics and printing. 
+device driver n A program that allows a hardware device, such as a printer, to communicate with a computer. 
+dial-up connection n A form of internet access through which the client uses a modem connected to a computer and a telephone line to dial into an Internet Service Provider. A dial-up connection is slower than a broadband connection like ADSL. 
+dialog box n A message box requiring information from the user. 
+digital n Describes a system that performs operations by means of digits, represented as binary numbers (Is and Os).The opposite of digital is analogue. 
+digital camera n A still camera that records images in digital form. Instead of using the film found in a traditional camera, it uses a flash memory card. 
+digital certificate n A file that identifies a user or a web server; like a digital identification card. 
+digital radio n Radio technologies which carry information as digital signals; also known as digital audio broadcasting (DAB). 
+digital TV n A way of transmitting pictures by means of digital signals, in contrast to the analogue signals used by traditional TV. 
+digital video camera n A camera that records moving images and converts them into digital data; also called a camcorder. 
+digitize v To translate into digital form, i.e. convert information into binary codes (Is and Os) so that it can be processed by a computer. It is possible to digitize images, sound and video. 
+directory n An alphabetical or chronological list of files on a disk. Also known as catalogue. 
+disk drive n A device that reads and writes data on disks. Magnetic drives read magnetic disks (e.g. hard disks), and optical drives use a laser beam to read optical discs (e.g. CDs and DVDs). 
+disk partitioning n The process of dividing a hard disk into isolatedsections. In Windows, each partition will behave like a separate disk drive. This is particularly useful if you want to install more than one operating system (e.g. you can have one partition for Windows and another for Linux).
+display 1. (n) A screen or monitor. 2. (v) To show text and graphics on a screen. 
+DivX n A format used to compress and distribute movies on DVD or over the Net. 
+Dock n A set of icons at the bottom of the Macintosh screen that give you instant access to the things you use most.
+domain name n A name that identifies internet sites, consisting of two or more parts separated by dots. For example, in the web address http://www.ibm.com, the part on the left (.ibm) is the most specific (a subdomain); the part on the right (.com) is the most general (a primary domain); this can be a country (e.g. .fr for France, .uk for United Kingdom, .es for Spain), or the type of organization (e.g. .com for commercial, .org for organization, .edu for educational, .net for network, or gov for government). An IP address (e.g. 194.179.73.2) is translated into a domain name by a Domain Name System.
+dot-matrix n A regular pattern of dots. 
+dot-matrix printer n A printer that uses pins to print an array of dots; used to print multi-part forms, self-copying paper and continuous-form labels.
+double click v To press and release the left button on a mouse twice, in rapid succession. 
+download v To copy files from a host computer to your own computer; compare with upload.
+drag n To select a block of text or an object with the mouse button and then move the mouse while keeping the button pressed down. 
+Dreamweaver n A program from Adobe (originally created by Macromedia), used for building websites.
+drop-down menu n A list of options that appears below a menu item when selected; also called a pull-down menu. 
+DTP operator n Someone who uses page-layout software to prepare electronic files for publication.
+dual-core processor n A CPU that combines two execution cores (processors) onto a single chip.
+DVD n A Digital Versatile (or Video) Disc that uses optical technology to store large amounts of audio-visual material. Whereas CDs use only one side, DVDs can be recorded on both sides as well as in dual layers. A basic DVD can hold 4.7GB, and a dual layer DVD can hold 17GB. 
+DVD burner n A DVD drive that records information by burning via a laser to a blank DVD disc. 
+DVD-R n A recordable (write-once) DVD, for both movies and data. DVD-ROM /,di:vi:di: 'rem/ n A read-only DVD disc used in DVD computer drives for data archival as well as interactive content (e.g. an encyclopedia, a movie, etc).
+DVD-RW n A re-writable (write-many) DVD, for movies and data. 
+
+E 
+
+eBay n An online auction and shopping website where you can buy and sell things.
+e-book n The electronic counterpart of a printed book. 
+e-card n A digital greeting card.
+e-cash n Money available as an electronic account, used in internet commerce. 
+e-commerce n The buying and selling of products on the Internet. 
+edit v To make changes and corrections to text and graphics. Well-known editing techniques are: select, undo, copy, cut, and paste.
+e-learning n Instruction via computers. 
+email 1. (n) A facility which allows users to exchange messages electronically; short for electronic mail. 2. (v) send a message by email.
+email address n A unique address used to receive and send email. This is a typical format: jmartin1984@telefonica.net, where 'jmartinl 984' is the user name, @ means 'at'/telefonica'is the Internet Service Provider, and 'net' means the server is a network provider.
+email client n A program used to read and send email from a computer.
+embedded v Inserted into; fixed into the surface of something.
+emoticon n See smiley.
+encrypt v to encode data so that unauthorized users can't read it. 
+encryption n The process of saving and transmitting data in encoded form. Data encryption and passwords are important for network security, particularly when sending confidential information such as credit card numbers. 
+e-pal n A friend you write email to. 
+eraser n A tool used to delete the part of the picture you drag it over.
+ergonomics n The study of how people interact safely and efficiently with machines and their work conditions. 
+e-signature n The electronic equivalent of a hand-written signature. 
+e-tailer n An electronic retailer, or online store. 
+Ethernet n A method of connecting computers in a LAN. Fast Ethernet can send data at 100 megabits per second. Most computers come with Ethernet ports that connect internally to circuits on the motherboard. 
+Excel n A spreadsheet program from Microsoft. 
+execute v To perform an action, as in executing a program or a command; the same as run. 
+expandable adj Upgradeable; able to increase in size. For example, RAM is expandable in most computers, which means you can add extra chips, usually contained in small circuit boards called dual in-line memory modules, or DIMMs. 
+expansion card n A printed circuit board that can be inserted into an expansion slot to add features like sound, memory, and network capabilities; the same as expansion board. 
+expansion slots n The connectors that allow the user to install expansion cards to improve the computer's performance. 
+eyegaze system n A system activated by the user's eye movements.
+e-zine n An electronic magazine. 
+FAQ abr Frequently Asked Questions, a file or web page containing answers to questions asked by internet users or visitors to a website. 
+fax n A facsimile machine that operates by scanning a paper document so that the image is sent to a receiving machine which produces a copy of the original.
+fibre optic communication n A way of transmitting information at high-speed by sending light through an optical fibre (made of glass or plastic). Fibre optic cables are used to transmit internet, cableTV and phone signals. 
+field n A unit of information in a record, in a database, information is entered via fields.
+file n 1. A collection of records in a database. 2. A section of information stored on disk - a document or a program.
+file server n A fast computer that stores the programs and data files shared by users in a network. 
+File Transfer Protocol (FTP) abr A standard for transferring files from one computer to another over a network.
+filter n A special effect that can be applied to pictures. 
+filtering program n Software designed to restrict the access to specific aspects of the Web. 
+Find and Replace n A command that lets you find a word or phrase in a document and change it to new text. 
+Firefox n A web browser, part of the open-source Mozilla project.
+firewall n A software and/or hardware device that allows limited access to an internal network from the Net. This prevents intruders from stealing or destroying confidential data. 
+firmware n Permanent software instructions contained in the ROM. 
+flame n An angry or insulting comment on a discussion group. 
+Flash n 1. The Adobe Flash Player. 2. The Adobe Flash Professional multimedia authoring program, used to create animations and advertisements. It supports a scripting language called ActionScript, and the streaming of audio and video. 
+flash card reader n A device that reads and writes a flash memory card. 
+flash drive n A USB storage device, small enough to fit on a key ring, used to store and transport computer data.
+flash memory n A type of non-volatile memory that can be erased and reprogrammed. 
+flatbed scanner n A scanner with a glass scanning surface on which objects are placed; similar to a photocopier. 
+flat-rate internet n Access to the Internet at any time of the day, at a fixed and cheap tariff. 
+Flickr n A website where users can share photos. 
+floppy disk n A disk made of a flexible plastic material upon which data is stored on magnetic tracks. Also known as a diskette. A floppy disk drive uses 3.5"disks. 
+flowchart n A diagram which shows the logical steps of a computer program.
+folder n A directory that holds programs, data files and other folders.
+font n The shape, style and size of a particular typeface, e.g. Times Bold at 10pt.
+footer n Customized text printed in the bottom margin of a document. 
+format n 1. The layout of a document, including page numbers, line spaces, margins, paragraph alignment, headers and footers, etc. 2. format a disk vTo prepare a disk for use. When a disk is initialized, the operating system marks tracks and sectors on its surface.
+formatting toolbar n A toolbar with icons that allow you to edit and style your text. For example, you can change font, align text, increase or decrease indentation, etc. 
+formula n A mathematical equation that helps you calculate and analyse data. 
+FORTRAN n The first high-level programming language and compiler, developed in 1954 by IBM. Today, it is still used in mathematics, science, and engineering. Short for FORmula TRANslation. 
+fractals n Geometrical patterns that are repeated at small scales to generate irregular shapes, some of which describe objects from nature. 
+fragmentation n The condition of a hard disk in which files are divided into pieces scattered around the disk. This occurs naturally after creating, deleting and modifying many files. When the operating system cannot find enough contiguous space to store a complete file, the file is divided into several separated fragments. As disk fragmentation increases, disk efficiency starts decreasing.
+frames n 1. Rectangular areas that allow the display of different pages in the same browser window. 2. Single pictures in films. 
+Freehand n A Macromedia program for creating vector graphics, which use geometrical primitives such as points, lines, curves and polygons to represent images.
+freeware n Software that is available free of charge, but protected by copyright. 
+Front Page n A web editor from Microsoft, used for designing web pages.
+function n A ready-to-use formula that helps you perform a specialized calculation, e.g. SUM, AVERAGE, etc. 
+function keys n Keys that appear at the top of the keyboard and can be programmed to do special tasks. 
+gadget n A small hardware device. Synonymous with gizmo (slang).
+game controller n A device used to control video games. 
+game genre n A specific type or category of game. For example, a game in which the player solves puzzles would fall into the Puzzle game genre. Other genres are: Action, Adventure, Fighting, First-person shooter, Role- playing, Simulation, Sports, Strategy, etc. 
+game platform n An electronic device on which video games are played. Examples are personal computers and game consoles. 
+Geographic Information System (GIS) abr A type of graphics software that allows us to analyse geographic data and then make maps, plan the use of land, predict natural disasters, etc. 
+gigabyte n 1,024 megabytes.
+gigahertz n A unit of one thousand million hertz, or cycles per second, used to measure processor speed. 
+Global Positioning System (GPS) abr A navigation system formed by various satellites orbiting the earth and their corresponding receivers on the earth. It allows GPS receivers to determine their location, speed and direction. 
+Google 1. (n) A popular search engine on the Web. 2. (v) search the Web for something. 
+grammar checker n A software utility that analyses the grammar of a written text. 
+graphical user interface (GUI) abr A user-friendly interface based on graphics. A GUI uses a WIMP environment: windows, icons, menus and pointer. Typical examples are the Mac OS and Microsoft Windows. 
+graphics tablet n An input device which allows the user to enter drawings and sketches into a computer.
+
+H 
+
+Hacker n Someone who invades a network's privacy. Originally, all skilled programmers were known as hackers, but in the 1 990s, the term became synonymous with cracker, a person who breaks security on computers. Today, the general public uses hacker for both. In the computer industry, hackers are known as white hats and crackers as black hats or darkside hackers. 
+handheld game n A game played on portable gaming devices, such as the Sony PSP and the Nintendo DS. 
+handheld scanner n A scanner that is moved by hand, ideal for capturing small pictures, logos and bar codes.
+hard disk n See hard drive. 
+hard drive n A magnetic storage device that reads and writes data on metal disks (called platters) inside a sealed case. A hard drive is commonly known as a hard disk. Strictly speaking, drive refers to the entire unit, containing multiple platters, a read/write head and a motor, while hard disk refers to the storage medium itself. 
+hardware n The physical units which make up a computer system. See software.
+hardware engineer n Someone who designs and develops IT devices.
+header n Customized text printed in the top margin of a document. 
+help desk technician n Someone who helps end users with their computer problems in person, by email or over the phone. 
+hertz n A unit of frequency equal to one cycle per second, named after Helnrich Hertz.
+high-level language n A language in which each statement represents several machine code instructions, e.g. COBOL, Pascal or C. 
+home cinema n A system that tries to reproduce the cinema experience in the home. It is also called home theatre and typically includes a large-screen TV, a hi-fi system with speakers for surround sound, and a DVD recorder. 
+home page n 1. The first page on a website, that usually contains links to other pages. 2 The default start-up page on which a web browser starts. 
+host n A computer containing data or programs that other computers can access via a network or modem. 
+hotspot n The geographic boundary covered by a Wi-Fi wireless access point. 
+HTML arb The language used to create hypertext documents (e.g. web pages); short for Hypertext Markup Language. 
+HTML tags The codes used to define text fonts, format paragraphs, add links, etc. HTML tags are surrounded by the angle brackets < and >. 
+HTTP arb The method by which web pages are transferred from a website to your PC; http appears at the beginning of web addresses and means hypertext transfer protocol. 
+hybrid hard disk n A hard disk with integrated flash memory, intended for new laptops and mobile PCs. 
+hyperlink n A text, image or button that, when clicked, takes you to other destinations on the Web. 
+hypermedia n A form of enriched multimedia which supports linking graphics, sound, and video elements in addition to text elements. 
+hypertext n Text that contains links to other documents. 
+
+I 
+
+icon n A picture representing an object, such as a document, program, folder or hard disk. 
+ICT system n A system that uses information and communications technologies. 
+IM server  n A central system that provides presence information about online users, and passes instant messages between them. 
+iMac n A desktop computer from Apple, intended for home, school, and small offices. 
+imagesetter n A professional printer that generates high-resolution output on paper or microfilm. 
+inch n The equivalent of 2.54 cm, or 72.27 points. It is represented by the symbol ". 
+indentation n The space between the page margins and where the text aligns. 
+InDesign n A desktop publishing program created by Adobe Systems.
+ink cartridge n A replaceable container that holds the ink of an inkjet printer.
+inkjet printer n A printer that generates an image by spraying tiny drops of ink at the paper. By heating the ink within the print head, individual drops are expelled to make a matrix of dots on the paper.
+input 1. (n) The process of transferring information into the memory from a peripheral unit. 2. (v) To transfer data, or program instructions, into the computer. 
+input devices n Units of hardware which allow the user to enter information into the computer, e.g. the keyboard, mouse, voice recognition devices, etc. 
+Instant Messaging (IM) adj Exchanging text messages in real-time between two or more people logged into IM services such as AIM, Windows Live Messenger and Yahoo! Messenger. Modern IM services also have audio and video capabilities. 
+Intel n The company that designs and produces the processors used in most PCs. 
+Intel Core 2 Duo n Technology that includes two cores, or processors, into a single chip, offering twice the speed of a traditional chip.
+interactive whiteboard n A touch-sensitive projection screen that allows the user to control a computer directly, by touching the board instead of using a keyboard. Used in presentation situations such as teaching. 
+interface n Channels and control circuits which provide a connection between the CPU and the peripherals. See also user interface. 
+Internet n A global network of computer networks which offers services such as email, file transfer, online chats, newsgroups, and information retrieval on the Web. It evolved from the Arpanet of the 70s and uses the TCP/IP protocol. 
+internet auction n A website on which bids are received and transmitted electronically. 
+Internet Explorer n A popular web browser from Microsoft. 
+Internet Service Provider (ISP) abr The company which gives you access to the Internet. 
+internet TV n A TV set used as an internet device. 
+interpreter n A special program that translates the source code line by line, as the program is running. 
+Intranet n A company network that uses public internet software but makes the website only accessible to employees and authorized users. 
+invoice n A document showing the items purchased, quantities, prices, etc., and requesting payment for a credit order. 
+IP address n A number which identifies a computer on the Internet. Every computer on the Net has a unique IP address, e.g. 194.179.73.2. 
+IP spoofing n Making one computer look like another to gain unauthorized access.
+iPhone n A device from Apple that combines three products in one: an iPod, a mobile phone and an internet communicator. 
+iPod n A family of portable media players from Apple. Popular models include the iPod Nano, the iPod Shuffle and the full-sized iPod that can also be used as a portable hard disk. 
+iTunes n A program from Apple that lets you play and organize music and video files, on computer or on an iPod. With an internet connection, iTunes can also connect to the iTunes Store in order to download purchased music, videos and podcasts. 
+
+J 
+
+Java n The programming language from Sun Microsystems for building internet applications. Java programs (called applets) let you watch animated characters and moving text, play music, etc. 
+Java ME abr The Java platform, Micro Edition, used to create applications that run on mobile phones, PDAs, TV set-top boxes, and printers. For example, many phones are configured to use Java games.
+joystick  n An input device with a vertical lever, used in computer games. 
+JPEG  abr A standard for compressing and decompressing image files; developed by the Joint Photographic Experts Group. A jpg extension is added to many image files on the Web. 
+
+K 
+
+kerning n The process of adjusting the spaces between letters to achieve even, consistent letter spacing.
+keyboard n A set of keys on a terminal or computer, including the standard typewriter keys (for letters and numbers), function keys and several special keys.
+Kilobit n One thousand bits. 
+kilobyte n A unit for measuring the memory or disk space in thousands of bytes (1,024 bytes).
+
+L 
+
+laptop n A small type of portable computer. 
+laser printer n A printer that uses a laser beam to fix the ink (toner) to the paper. 
+lightpen n A highly sensitive photo- electric device which uses the screen as the positioning reference. The user can pass the pen over the surface of the screen to draw or modify images displayed on the screen.
+link n See hyperlink. 
+link up v To form a connection in order to operate together. 
+Linux n Open-source software developed under the GNU General Public License. This means anybody can copy its source code, change it and distribute it. 
+liquid crystal display n A flat-screen display made of two glass plates with a liquid crystal material between them. The crystals block the light in different quantities to create the image. Active-matrix LCDs use TFT (thin film transistor) technology, producing very sharp images. 
+lithium-ion battery n A type of a battery composed of Lithium, a metallic chemical element, used in PDAs, cameras and mobile phones. 
+load v To read program instructions into the main memory. 
+Local area network (LAN) abr A group of computer devices interconnected within a small physical area, like a home or office building. 
+log in/on v To gain access to a computer system or network. 
+log out/off v To sign off; to end a computer session. The opposite of log in/on. 
+login/logon  n The process of identifying yourself when entering a computer system or network. You usually type your user name and password. 
+low-level language n A programming language that is very close to machine language. See assembly language. 
+
+M 
+
+Mac OS n An operating system created by Apple and used on Macintosh computers. 
+MacBook  n A Macintosh notebook computer. 
+machine code n Binary code numbers; the only language that computers can understand directly. 
+magnetic storage devices n devices that store data by magnetizing particles on a disk or tape (e.g. hard drive, tape drive). 
+magnetic tape n A seguential storage device used for data collection, backup and archiving. A tape consists of a magnetic coating on a thin plastic strip, 
+mail merging n The process of combining a database file with a word processor to personalize a standard letter.
+mail server n The computer where your Internet Service Provider stores your emails. 
+mailbox n The place where your email program stores new email for you. 
+mailing list n A system used to distribute email to many different subscribers at once. 
+main memory n The section which holds the instructions and data currently being processed; also referred to as the immediate access store or internal memory. PCs make use of two types of main memory: RAM and ROM. 
+Macintosh n A popular computer from Apple, introduced in 1984; the first computer with a graphical user interface.
+mainframe n The largest and most powerful type of computer. Mainframes process enormous amounts of data and are used in large installations. 
+malware n Malicious software, created to damage computer data. It includes viruses, worms, Trojan horses and spyware. 
+markup language n A computer language that uses instructions, called markup tags, to format and link web documents.
+marquee select tools n Tools used to select a particular part of an image. 
+master page n A page you design which can be applied to any document page. You can place text and picture boxes, headers and footers, and page rules, etc. on a master page, which ensures a consistent look on all pages. 
+media player n Software that plays audio, video or animation files.
+megabit n A million binary digits (1,024 kilobits). 
+Megabyte n 1 ,024 kilobytes. 
+megahertz n A unit of a million cycles per second, used to measure processor speed. 
+megapixel  n One million pixels.
+memory card n A removable module used to store images in digital cameras, to record voice and music on MP3 players, or to back up data on PDAs. They are made up of flash memory chips (e.g. CompactFlash, Secure Digital). See flash memory.
+menu bar n A row of words at the top of the screen that open up menus when selected. 
+message threads n A series of interrelated messages on a given topic.
+microchip n See chip. 
+Microsoft Access n A relational database management system. 
+Microsoft Office n An integrated package that includes some combination of Word, Excel, PowerPoint, Access and Outlook, along with various internet and other utilities. 
+MIDI adr A standard for connecting computers and musical instruments. MIDI files contain the .midi extension, short for Musical Instrument Digital Interface. 
+millisecond n One thousandth of a second. 
+mobile (phone) n (US: cell phone) A phone connected to the telephone system by radio, rather than by a wire. 
+modem n A device that converts the digital signals used by computers into the analogue signals used by the telephone lines, thus allowing access to the Internet. Short for MODulator/DEModulator. 
+modem-router n A device that connects various computers (e.g. a homeLAN) to the Internet. 
+monitor n An output device with a screen on which words or pictures can be shown. Also called a display screen. 
+motherboard n The main circuit board of a computer, which contains the processor, memory chips, expansion slots and controllers for peripherals, connected by buses.
+mouse n A small input device used to specify the position of the cursor or to make choices from menus. A mechanical mouse has a rubber or metal ball underneath that is rolled by the user. An optical mouse uses light (a laser) to detect the mouse's movement, and can be wired or wireless. 
+MPS abr 1. A standard format that compresses music files, enabling them to be transmitted over the Net more easily. 2. A file containing a song or other audio data that is encoded using the MP3 standard. 
+MP3 player n A digital music player that supports the MP3 format. 
+MP4 player n A portable media player that plays video in the MPEG-4 format; it is like an MP3 player that can play video files. 
+MPEG abr A standard for compressing and decompressing video files; developed by the Moving Pictures Experts Group.
+multi-format playback n feature of a media player that makes it compatible with many file formats, including DVD-video, DivX, MP3 music or JPEG images. 
+multi-function printer n An 'all-in-one' device that can work as a printer, a scanner, a fax and a photocopier.
+multimedia n The integration of text, graphics, audio, video and animation in a single application. 
+multitasking n The execution of several tasks at the same time, 
+multi-threaded n Refers to a computer program that has multiple threads (parts), i.e. many different things processing independently and continuously. This enables the program to make the best use of available CPU power. 
+MySpace n A social networking site that allows users to share messages, interests, blogs, photos, music and videos with friends. 
+
+N 
+
+nanobot  n A microscopic robot, built by means of nanotechnology. 
+nanocomputer n A molecule-sized computer, the size of a grain of sand, e.g. a guantum computer, a DNA computer, etc. 
+nanotechnology n The science of making small devices from single atoms and molecules. 
+nanotube n Extremely small tube made from pure carbon. Nanotubes are expected to be used in the development of materials for buildings, cars, airplanes, clothes, etc. 
+netiquette n good manners when communicating online. 
+Net Meeting  n AVoice and video- conferencing program from Microsoft. 
+Netscape Navigator n A web browser developed by Netscape Communications. 
+network n A system of computer devices or 'nodes' (e.g. PCs and printers), interconnected so that information and resources can be shared by a large number of users. 
+network administrator n Someone who manages the hardware and software that comprise a network.
+newsgroups n The public discussion areas which make up Usenet. The contents are contributed by people who send articles (messages) or respond to articles.
+newsreader n A program that reads and sends articles to newsgroups.
+nickname n A name used by a participant on mailing lists or chat sessions instead of the real name.
+node n Any computer device in a network. 
+non-volatile memory n Permanent memory, able to hold data without power. ROM and Flash memory are examples of non-volatile memory. 
+notebook computer n A light, portable computer that is generally thinner than a laptop. 
+numeric keypad n A small key section that appears to the right of the main keyboard and contains numeric and editing keys. 
+
+O
+
+object-oriented programming n A technique that allows the creation of objects that interact with each other and can be used as the foundation of others. Used to develop graphical user interfaces.
+offline n Not connected to the Internet. 
+online n Connected to the Internet. 
+online banking n Performing transactions and payments through a bank's website. Also known as internet banking. 
+onscreen keyboard  n A graphic representation of a keyboard on thecomputer screen, allowing people with mobility problems to type data using a joystick or pointing device. 
+open-source n Refers to the source code (of software) that is free and available to anyone who would like to use it or modify it. 
+operating system n A set of programs that control the hardware and software of a computer system. Typical functions include handling input/output operations, running programs and organizing files on disks.
+optical character recognition n Technology that allows computers to recognize text input into a system with a scanner. After a page has been scanned, an OCR program identifies fonts, styles and graphic areas. 
+optical disc n A storage device in which data is recorded as microscopic 'pits' by a laser beam. The data is read by photoelectric sensors which do not make active contact with the storage medium. 
+output 1. (n) The results produced by a computer. 2. (v) To transfer information from a CPU to an output device. 
+output devices n The units of hardware which display the results produced by the computer (e.g. plotters, printers, monitors). 
+pdf abr A portable document format from Adobe, commonly used to distribute text files over the Internet, and read with Acrobat Reader. 
+page description language n computer language that describes how to print the text and images on each page of the document. 
+Page-layout program n Application software used to import texts and illustrations, and to combine and arrange them all on a page; e.g. Adobe InDesign or QuarkXPress. 
+paint bucket n A tool used to fill in an area with a colour. 
+Palm OS  n An operating system used on Palm hand-held devices. 
+palmtop  n A hand-held personal computer. 
+Pascal n A high-level language created in 1971, named after the mathematician Blaise Pascal. Its highly structured design facilitates the rapid location and correction of coding errors. Today, it's used in universities to teach the fundamentals of programming.
+password n A secret word which must be entered before access is given to a computer system or website.
+paste n To insert a copy of text or graphics, held in the computer's memory, at a chosen position of a document. 
+PC abr A personal computer, which carries out processing on a single chip. PCs are often classified by size and portability: desktop PCs, laptops, tablet PCs and PDAs. 
+PC game n A game played on a personal computer. 
+peer-to-peer n A network architecture in which all the computers have the same capabilities, i.e. share files and peripherals, without requiring a separate server computer.
+peer-to-peer file-sharing n A form of P2P networking which eliminates the need for central servers, allowing all computers to communicate and share resources (music files, videos, etc.) as equals. 
+pen drive n  See flash drive.
+Peripherals n The units attached to the computer, classified into three types: input devices, output devices and storage devices. 
+Personal Digital Assistant (PDA) abr A tiny computer which can be held in one hand. The term PDA refers to a variety of hand-held devices, palmtops and pocket PCs. For input, you type at a small keyboard or use a stylus. It can be used as a personal organizer, a mobile phone or an internet device. 
+phishing n Getting passwords of online bank accounts or credit card numbers by using emails that look like real organizations, but are in fact fake; short for password harvesting fishing. 
+phosphor n The material or substance of the CRT screen that lights up when struck by an electron beam. 
+Photoshop n An image manipulation program developed by Adobe Systems. 
+PictBridge n A technology developed by Canon that lets you print images from a memory card in a digital camera or a camera phone directly to the printer (no computer is necessary).
+piracy n The illegal copying and distribution of copyrighted programs and files.
+pixel n The smallest unit on a display screen or bitmapped image (usually a coloured dot). 
+plasma screen n A display that generates images by a plasma discharge, which contains noble, non-harmful gases. It allows for larger screens and wide viewing angles. 
+platesetter n A machine that creates the printing plates. 
+platform-independent n Refers to software that can run on any computer system.
+platter n A magnetic plate, or disk, that constitutes part of a hard disk drive. There may be only one or several platters in a drive. 
+PlayStation n A video game console from Sony. 
+plotter n A graphics output device which is used to make various types of engineering drawings. 
+plug-ins n Special programs which extend the capabilities of a web browser so that it can handle audio, video, 3D and animation elements. 
+podcast n An audio recording that is distributed by subscription (paid or unpaid) over the Internet using RSS feeds, for playback on mobile devices and PCs; coined from iPOD and broadCAST. 
+point n A unit used to measure font types and the distance between baselines. A point is a subdivision of a pica: there are 12 points in a pica and 72.27 points in an inch.
+pointer n 1. A small picture that follows the mouse movements. 2. The cursor which locates the insertion point on the screen, i.e. indicates where the next character will be displayed. 
+port n A socket or channel in the rear panel of the computer into which you can plug a wide range of peripherals: modems, scanners, digital cameras, etc. See USB port.
+portable DVD player n A handheld device with a built-in DVD drive and a screen. 
+portable hard drive  n An external hard drive that is connected to the USB or FireWire port of the computer.
+portable media player n A handheld device that plays audio and video files. 
+PostScript n A page description or graphics language developed by Adobe Systems. A PostScript font is any font defined in this language, e.g. Times or Helvetica.
+power-line internet n A technology that provides low-cost internet access via the power plug. 
+PowerPoint n A presentation graphics program from Microsoft. 
+Pretty Good Privacy (PGP) abr A freeware program, written by Phil Zimmerman, designed to send email privately.
+primary colours n These are red, green and blue (RGB) in computers. Compare with the colours considered basic in inks (magenta, yellow and cyan).
+primitives n The basic shapes used to construct graphical objects: lines, polygons, etc. 
+print preview n A function that shows how pages will look when printed.
+printer n An output device which converts data into printed form. The output from a printer is referred to as a print-out or hardcopy. 
+printer driver n A program installed to control a particular type of printer.
+printing plate n A metal surface that carries the image to be printed.
+processor n The chip that processes the instructions provided by the software. See central processing unit (CPU). 
+program n A set of instructions that tells the computer how to do a specific task. The task can be anything from the solution to a Maths problem to the production of a graphics package. 
+programmer n Someone who writes computer programs.
+programming n The process of writing a program using a computer language.
+protocol n A set of rules which determine the formats by which information may be exchanged between different systems. 
+Proxy n A computer server which controls the traffic between the Internet and a private network. 
+Python n a popular high-level programming language
+
+Q 
+
+QuarkXpress n  A page layout application produced by Quark.
+query n A request for data; in a database, a function that allows you to extract data according to certain conditions or criteria. 
+QuickTime n Software from Apple that enables users to play, edit, and manipulate multimedia files. 
+
+R 
+
+radio tags n Microchips attached to, or embedded into, products, animals or people, for the purpose of identification.
+radio-frequency identification (RFID) abr Technology that uses radio waves and chip- equipped tags (called RFID tags) to automatically identify people or things.
+random access memory (RAM) abr The part of the main memory which stores information temporarily while you are working. RAM requires a continuous power supply to retain information. Compare with ROM. 
+raster graphics n Images stored and displayed as pixels, which can become distorted when manipulated. Also called bit-mapped graphics. 
+read-only memory (ROM) abr Chips of memory containing information which is present and permanent. Also known as firmware. 
+read/write head n The part of a disk drive that reads and writes data on a magnetic disk. 
+RealPlayer n A media player, created by RealNetworks, that plays a variety of audio and video formats. 
+real-time n Refers to something live, simultaneous (without delay), e.g. real-time chat. 
+reboot v To restart the computer.
+record n A unit of a file consisting of a number of interrelated data elements (fields).
+Register n The component in the processor or other chip which holds the instruction from the memory while it is being executed. 
+relational database n A database system that maintains separate, related files (tables), but combines data elements from the files for queries and reports.
+rendering n A technique that generates realistic reflections, shadows and highlights. 
+resolution n The maximum number of pixels in the horizontal and vertical directions of the screen; also refers to the number of pixels per inch. 
+rewritable adj Able to be rewritten many times. 
+right click v To press and release the right button on a mouse; this action displays a list of commands. 
+RIM adv An operating system used on BlackBerry communication devices, developed by Research In Motion. 
+ring topology n One of the three principal topologies for a LAN, in which all devices are interconnected in a continuous loop, or ring. 
+ringtone n A digital sound file played by a telephone to announce an incoming call.
+ripping  n Converting music tracks from a CD to the MP3 format. 
+rotation n Turning an object around its axis. 
+router n A device used to transmit data between two computers or networks. See also modem-router and wireless router. 
+routine n A piece of code which performs a specific task in the operation of a program or system. 
+row n A horizontal line of boxes, labelled with a number, in a spreadsheet program. 
+RSS feed n A web feed format that allows subscribers to receive updates of blogs, news, podcasts, etc. 
+run a program v To execute a specific program; to use a program. 
+
+S
+
+save v To copy information from the RAM to a storage device. 
+scale v 1. To magnify or shrink a particular font. 2. To make an object larger or smaller in any direction. 
+scan v To digitize an image by passing it through a scanner. 
+scanner n An input device that scans (reads) the image as a series of dots and introduces the information into the computer's memory.
+screen magnifier n Software that enlarges text and images on the screen, making the content more readable for users with low vision. 
+screen reader n Software for the blind that converts screen contents into spoken words. 
+screensaver n A program that darkens the screen after you have not worked for several minutes. Designed to protect an unchanging image from burning into the screen.
+screen size n The viewing area of a monitor; measured diagonally, in inches.
+scroll v To move a document in its window by using scroll bars so that text in another part of the document is visible.
+scroll bar n A horizontal or vertical bar containing a box that is clicked and dragged to the desired direction.
+search v To look for specific information.
+search engine n A program that allows users to search a large database of web addresses and internet resources. Examples are Google and Yahoo! 
+Second Life n A 3-D virtual world on the Internet, entirely built and owned by its residents. 
+sector n A part of a track on a magnetic disk. 
+seek time n The average time required for the read/write head of a disk drive to move and access data, measured in milliseconds. Also called access time. 
+set up v To install and configure hardware or software. 
+set-top box n A device that connects to a TV and to an external source of signal (e.g. a satellite dish or cable TV) and converts the signal into content then displayed on the TV screen. 
+setup n The way in which a program or device is configured. 
+shareware n Software distributed similarly to freeware, but requiring payment after a trial period. Also known as 'try before you buy' software. 
+shopping cart n Software that lets you choose products from a website and processes the order through the payment gateway. 
+sign up v To register in a service.
+signature v A file with persona information that is automatically attached at the end of an email message.
+silicon chip n A device made up of a semi-conducting material (silicon), which contains a set of integrated circuits.
+simulation n Using computer models (programs) to imitate real life or make predictions. 
+sip-and-puff n A technology that allows someone with quadriplegia to control the computer by sipping and puffing air through a mouth-controlled tube or joystick.
+site v See website. 
+Skype n A program that allows you to make voice and video calls from a computer.
+slide scanner n A device used to scan 35mm slides or film negatives; also called a film scanner. 
+smart device n An object containing a microchip and memory.
+smart home n A home where all the systems (security, lights, appliances, sensors, audio-video devices, etc.) are interconnected to allow the automatic and remote control of the home.
+smart phone n A mobile phone with advanced functions, providing voice service as well as any combination of email, text messaging, web access, voice recorder, camera, MP3, TV or video player and organizer.
+smileys n Faces made from punctuation characters to express emotions in email messages, e.g. :-) for happy, :-o for surprised, etc. Also called emoticons. 
+software n  The set of program instructions that tell the computer what to do. See hardware. 
+software engineer n Someone who writes computer programs; also known as programmer or programmer analyst. 
+Solaris n A Unix-based operating system, developed by Sun Microsystems, which runs on SPARC computers and other workstations. 
+solid modeling n A technique for representing solid objects; this includes specifying and filling the surfaces to give the appearance of a 3-D solid object with volume.
+sort v To classify; to reorder data into a new sequence. 
+sound card n An expansion card that processes audio signals; also called a sound board. 
+source code n 1. Computer instructions written in a high-level language like C or Pascal. 2. The HTML codes of a web page.
+Spam n Unsolicited, junk email.
+spamming n Posting unsolicited advertising messages.
+speaker n A device that provides sound output; also called a loudspeaker. A pair of speakers usually plug into the computer's sound card. 
+speech-synthesizer n A device that produces audio output. 
+spell checker n A utility to correct typing mistakes. 
+spit n Spam (unwanted messages) over internet telephony. 
+spooler n A utility which makes it possible to send one document to the printer (by creating a temporary file for it) so that the user can work on another. 
+spreadsheet n A program for financial planning which allows the user to analyse information presented in tabular form, by manipulating rows and columns. 
+spyware n A type of software that collects information from your computer without your consent. 
+standard toolbar n A row of icons that, when clicked, activate certain commands of a program. For example, in a word processor, it allows you to save or print a document, include a hyperlink, check the spelling, etc. 
+star topology n One of the three principal topologies for a LAN , in which all data flows through a central hub, a common connection point for the devices on the network. 
+storage device n A hardware device used to record and store data, e.g. a hard disk, DVD or flash memory card.
+store v To copy data from the computer's internal memory to a storage device, such as a disk, tape or flash memory card.
+streaming n A technique for transmitting sound and video so that it can be processed as a continuous stream. The files are played while they are downloading.
+stylus n A pen-shaped tool that is used to draw images or point to menus on pressure-sensitive screens (e.g. on PDAs).
+subject n The line that describes the content of an email. 
+subroutine n A set of instructions which performs a specific function of the program. 
+surf v To navigate and search for information on the Web. 
+Symbian OS abr An operating system used by some phone makers, including Nokia and Siemens. 
+system clock  n A clock that measures and synchronizes the flow of data. 
+system software n The programs that control the basic functions of a computer, e.g. operating systems, programming software, device drivers and utilities. 
+
+T 
+
+tablet PC abr A type of notebook computer that has an LCD screen on which you can write with a stylus or digital pen. The screen can be easily folded or rotated.
+telecommunications n The transmission of signals over a distance for the purpose of communication.
+Telegraph n A communications system that transmits and receives simple electromagnetic impulses. A message transmitted by telegraph is a telegram. 
+telemarketing n The process of selling goods and services over the telephone
+teletext n A method of communicating information by using TV signals. An extra signal is broadcast with the TV picture and translated into text on the screen by a decoder. 
+teleworking n The practice of working at home and communicating with the office by phone and computer. Also called telecommuting. 
+Telnet n A protocol and a program which is used to log directly into remote computer systems. This enables you to run programs kept on them and edit files directly.
+terabyte n 1,024 gigabytes.
+terminal n A hardware device, often equipped with a keyboard and a video screen, through which data can be entered or displayed.
+text flow n A feature that enables you to wrap text around images on the page.
+textphone n  A phone with a small screen and a keyboard that transcribes spoken voice as text; it is used by people with hearing or speech difficulties. 
+texturing n Adding paint, colour and filters to an object in order to achieve a given look and feel. 
+thermal transfer printer n A printer that produces colour images by adhering wax-based ink onto paper.
+thesaurus n A utility for searching synonyms and antonyms.
+three-dimensional (3-D) n  Having three dimensions e.g. width, length, and depth. 3-D drawings represent objects more accurately. 
+tilt-and-swivel stand n A kind of stand that lets you move the monitor up or around, so you can use it at the right angle and height. 
+toner n A special ink powder used in copy machines and laser printers.
+toolbar n A row of icons on a computer screen that, when clicked, activate certain functions of a program. Toolbars are used in programs like MS Word or as add-ons for web browsers (e.g. the Google toolbar).
+toolbox n A collection of drawing and painting tools. 
+topology n The layout or shape of a network. See bus, star and ring topologies.
+touch screen n A display screen that is sensitive to the touch of a finger or stylus. Used in PDAs, portable game consoles, and many types of information kiosks. 
+touchpad n A pointing device consisting of a soft pad which is sensitive to finger movement or pressure. Used on portable PCs. 
+track n An area marked on the surface of a disk. When a disk is initialized, the operating system divides its surface into circular tracks, each one containing several sectors. Tracks and sectors are used to organize the information stored on disk. 
+trackball n A stationary device that works like a mouse turned upside down. The ball spins freely to control the movement of the cursor on the screen. Used in laptops and CAD workstations. 
+translation n Moving an object to a different location. 
+Trojan horse n Malicious software disguised as a useful program.
+two-dimensional (2-D) n Having only two dimensions, length and width. 2-D drawings look flat. 
+type style n A visual characteristic of a typeface, e.g. plain text, italic, bold, etc. 
+typeface n The design of a set of printed characters, such as Arial and Courier. The words typeface and font are used interchangeably, but the typeface is the primary design, while the font is the particular use of a typeface, such as the size (e.g. 1 2 points) and style (e.g. normal, italic, bold). 
+
+U
+
+Undo n A command that reverses or erases the last editing change done to the document. 
+Uniform Resource Locator (URL) abr address of a file on the Internet, e.g. http://www.bbc.co.uk/radio. 
+UNIX n An operating system, designed by Bell Laboratories in the USA, found on mainframes and workstations in corporate installations. 
+update v To make something more modern or suitable for use now by adding information or changing its design.
+upgradable n Can be upgraded or expanded. 
+upgrade v To add or replace hardware or software in order to expand the computer's power. 
+upload v To send files to a central, often remote computer. Compare with download. 
+USB abr A Universal Serial Bus, a hardware interface that allows peripheral devices (disc drives, modems, cameras, etc.) to be easily connected to a computer. 
+USB port abr A USB socket on a computer device into which you can plug a USB cable. 
+Usenet abr A large collection of discussion areas (called newsgroups) on the Internet. 
+user interface n The standard procedures for interaction with specific computers. 
+user-friendly n A system that is easy to learn and easy to use.
+username n 1. the part of an email address that identifies the user of the service. 2. The name you use to identify yourself when you log onto a computer system or network; also called user ID. 
+utility n A small program designed to improve the performance of the system. System utility refers to a diverse field covering anything from software designed to help you back up your hard disk or locate files, to anti-virus programs or routines used by the system. 
+
+V
+
+Vector graphics n Images represented through the use of geometric objects such as lines, curves and polygons, based on mathematical equations. They can be changed or scaled without losing quality.
+video adapter n A expansion card that processes images and sends the video signals to the monitor; also called video graphics board. 
+video editing n The process of manipulating video images. 
+video projector n  A device that projects images on a large screen using a lens system. 
+videoblog n  A blog that includes video. 
+videoconferencing n A technology that allows organizations to create virtual meetings with participants in multiple locations, enabling them to talk to and see each other. 
+virtual interface n A type of interface based on virtual reality techniques. The user puts on a head-mounted display, and uses data gloves and other devices which make you feel as if you are in a 3-D world.
+virtual reality n A computer-generated space in which the user interacts with artificial objects through 3-D computer simulation. This is done by using sensory peripherals, such as data gloves and head-mounted displays, to give the feeling of being immersed into an illusionary, yet sensate, world. 
+virus n A piece of software which attaches itself to a file. Once you run an infected program, the virus quickly spreads to the system files and other software. Some viruses can destroy the contents of hard disks. 
+VisualBASIC n A high-level programming language, developed by Microsoft in 1990, used to create graphical user interfaces in Windows applications. 
+VoIP n Voice over Internet Protocol, which allows you to make phone calls using the Internet instead of the regular phone lines.
+voice recognition n A technology that allows computers to interpret human speech, converting spoken words into digitized text or instructions. 
+VoiceXML n A markup language which makes web content accessible via voice and phone. Short for Voice Extensible Markup Language. 
+volatile memory n Temporary memory (e.g. RAM); it doesn't hold its contents without power. 
+
+W
+
+wearable computer n A computer that is worn on the body, or integrated into the user's clothing. 
+Web n A network of documents that works in a hypertext environment, i.e. using text that contains links to other documents. It's also known as the World Wide Web, WWW or W3. By using a special program known as a browser, you can find information on nearly any topic you can imagine. 
+Web Accessibility Initiative (WAI) n A project that tries to make the Web accessible to people with disabilities. 
+web editor n Software that lets you design web pages without writing HTML codes. 
+web page n An individual document on the Web, identified by its own unique URL. Web pages contain different elements, such as text, pictures, video, links, etc. 
+webcam n A web camera used to send live video images via the Internet.
+webcasting n Sending audio and video live over the Internet.
+webmaster n Someone responsible for designing, developing, marketing or maintaining websites.
+website n A collection of web pages (usually including a homepage), set up by an organization or an individual, which are usually stored on the same server. The pages are all linked together; you can move from one page to another by clicking on words or pictures called hyperlinks. 
+wide area network (WAN) abr A network that extends outside a building or small area. For long distance communications, LANs are usually connected into a WAN. The largest WAN is the Internet. 
+Wi-Fi n A term from the Wi-Fi Alliance, which certifies that network devices comply with the IEEE 802.1 1 wireless specifications. A typical Wi-Fi setup contains one or more wireless access points (base stations) and various computer devices acting as clients. 
+Wi-Fi phone n A mobile phone that can switch from the cellular network to a wireless VoIP network and vice versa. 
+Wii  n A video game console from Nintendo, introduced in 2006. 
+wiki n A collaborative website whose content can be edited by anyone who has access to it, e.g. WikiWikiWeb, Wikipedia, etc. 
+WiMAX n A technology that enables the delivery of wireless broadband access as an alternative to cable and ADSL; short for Worldwide Interoperability for Microwave Access. 
+window n A scrollable viewing area on screen, which can contain files or folders. 
+Windows n The operating system from Microsoft that runs on most PCs. The most recent versions are Windows 2000, Windows XP and Windows Vista. 
+Windows Mobile An operating system used on many PDAs and smartphones. 
+Windows Vista n The new Windows, released in 2007. It includes security improvements, a new graphical user interface, and new ways of searching information.
+wired n Equipped with a system of wires (cables). 
+wireframe n The drawing of a model by tracing features like edges or contour lines. 
+wireless n Having no wires; without the use of cables. 
+Wireless access point (WAP) abr A device that connects wireless communication devices together to form a wireless network. 
+wireless adapter n A device that adds wireless connectivity to a computer or PDA. It is attached via a PC card or a USB port. There are three main types of wireless adapters; Bluetooth, cellular (for mobiles) and Wi-Fi (for laptops and desktop PCs).
+wireless LAN n A wireless local area network, linking two or more computers without cables. 
+wireless network  n Any type of network that uses electromagnetic waves, such as radio waves, to transmit data. These are the main types: satellites for long distances, WiMAX for connecting Wi-Fi hotspots, Wi-Fi for medium-range distances, Bluetooth for short distances, and GSM for mobile phones.
+wireless router n A device which allows computers to communicate via radio waves. Also called wireless access point or base station. 
+Word n A word processor from Microsoft.
+word processor n An application that manipulates text and produces documents suitable for printing.
+word wrap n An editing facility which automatically moves a word to the next line if there is not enough space for the complete word on the current line.
+workstation n 1. A high- performance computer, typically used for graphics, CAD, software development and scientific applications. 2. Any computer connected to a network. 
+worm  n A self-copying program that spreads through email attachments; it replicates itself and sends a copy to everyone in a contact list. 
+Xbox 360  n  A video game console from Microsoft. 
+XML abr Extensible Markup Language. While HTML uses pre-defined tags, XML allows us to create our own tags to better describe data. 
+Yahoo!  n A leading web portal, with a mix of news, entertainment and online shopping, as well as search engine, internet directory, email and IM services. 
+YouTube n A popular website which lets users upload, view, and share video clips. 
+
+Z
+
+zip n An extension that identifies compressed files. To decompress them you need a shareware program like WinZip. 
+zoom n A tool used to magnify areas of an image when you are doing close, detailed work. 
+
+
+36
+
+
+
+
+
+
+
+
+
+
